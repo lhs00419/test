@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://lhs00419.github.io/test/feed.xml" rel="self" />
+    <link href="https://lhs00419.github.io/test" />
+    <updated>2026-03-15T02:35:12+09:00</updated>
+    <author>
+        <name>test</name>
+    </author>
+    <id>https://lhs00419.github.io/test</id>
+
+    <entry>
+        <title>test</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://lhs00419.github.io/test/test.html"/>
+        <id>https://lhs00419.github.io/test/test.html</id>
+
+        <updated>2026-03-15T02:35:12+09:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

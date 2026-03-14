@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "test",
+    "description": "",
+    "home_page_url": "https://lhs00419.github.io/test",
+    "feed_url": "https://lhs00419.github.io/test/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "test"
+    },
+    "items": [
+        {
+            "id": "https://lhs00419.github.io/test/test.html",
+            "url": "https://lhs00419.github.io/test/test.html",
+            "title": "test",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-15T02:35:12+09:00",
+            "date_modified": "2026-03-15T02:35:12+09:00"
+        }
+    ]
+}
