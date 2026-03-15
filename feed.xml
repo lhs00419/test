@@ -3,12 +3,35 @@
     <title>test</title>
     <link href="https://lhs00419.github.io/test/feed.xml" rel="self" />
     <link href="https://lhs00419.github.io/test" />
-    <updated>2026-03-15T02:35:12+09:00</updated>
+    <updated>2026-03-15T23:23:22+09:00</updated>
     <author>
         <name>test</name>
     </author>
     <id>https://lhs00419.github.io/test</id>
 
+    <entry>
+        <title>소개입니다</title>
+        <author>
+            <name>test</name>
+        </author>
+        <link href="https://lhs00419.github.io/test/sogaeibnida.html"/>
+        <id>https://lhs00419.github.io/test/sogaeibnida.html</id>
+        <media:content url="https://lhs00419.github.io/test/media/posts/3/photo_2026-03-15_23-22-15-2.jpg" medium="image" />
+
+        <updated>2026-03-15T23:22:24+09:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://lhs00419.github.io/test/media/posts/3/photo_2026-03-15_23-22-15-2.jpg" alt="" />
+                    안녕하세요
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://lhs00419.github.io/test/media/posts/3/photo_2026-03-15_23-22-15-2.jpg" class="type:primaryImage" alt="" /></p>
+                <p>안녕하세요</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test</title>
         <author>

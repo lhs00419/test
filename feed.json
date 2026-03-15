@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://lhs00419.github.io/test/sogaeibnida.html",
+            "url": "https://lhs00419.github.io/test/sogaeibnida.html",
+            "title": "소개입니다",
+            "summary": "안녕하세요",
+            "content_html": "<p>안녕하세요</p>",
+            "image": "https://lhs00419.github.io/test/media/posts/3/photo_2026-03-15_23-22-15-2.jpg",
+            "author": {
+                "name": "test"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-15T23:22:24+09:00",
+            "date_modified": "2026-03-15T23:23:22+09:00"
+        },
+        {
             "id": "https://lhs00419.github.io/test/test.html",
             "url": "https://lhs00419.github.io/test/test.html",
             "title": "test",
